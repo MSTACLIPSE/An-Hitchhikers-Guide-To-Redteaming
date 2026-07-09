@@ -1,4 +1,4 @@
-# An Guide To Redtesming
+# An Guide To Redteaming
 
 ## Awesome Red Teaming
 
